@@ -1,3 +1,11 @@
+# Ruby on Rails Tutorial: sample application
+
+This is the sample application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutiorial.org/)
+by [Micheal Hart1](http://michealhart1.com/
+
+## DRF The following lines where genertate from the Rails new sample_app - T command
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
